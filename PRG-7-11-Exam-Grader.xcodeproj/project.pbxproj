@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		2594E83C1F8A8267003FCE6F /* PRG-7-11-Exam-Grader */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "PRG-7-11-Exam-Grader"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2594E83F1F8A8267003FCE6F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2594E8461F8A83C3003FCE6F /* CorrectAnswers.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CorrectAnswers.txt; sourceTree = "<group>"; };
+		2594E8471F8A83C3003FCE6F /* StudentAnswers.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = StudentAnswers.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,8 @@
 		2594E83E1F8A8267003FCE6F /* PRG-7-11-Exam-Grader */ = {
 			isa = PBXGroup;
 			children = (
+				2594E8461F8A83C3003FCE6F /* CorrectAnswers.txt */,
+				2594E8471F8A83C3003FCE6F /* StudentAnswers.txt */,
 				2594E83F1F8A8267003FCE6F /* main.cpp */,
 			);
 			path = "PRG-7-11-Exam-Grader";
